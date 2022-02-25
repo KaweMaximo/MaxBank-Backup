@@ -1,8 +1,8 @@
-# Seja Bem-Vindo ao Reg-Form -> BDA 👋
+# Seja Bem-Vindo ao PROJECT 'MAXBANK' -> BDA 👋
 ![Version](https://img.shields.io/badge/version-2.0-blue.svg?cacheSeconds=2592000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
-> Simples Formulário de Estudos.
+> PROJETO DE DESENVOLVIMENTO DE BDA
 
 ### ✨ [Demo](https://vue-router-template.ga)
 
